@@ -8,6 +8,7 @@ import project3Image from "../../assets/sspThumbnail.png";
 import project4Image from "../../assets/vrmsThumbnail.png";
 import project5Image from "../../assets/flip.png";
 import project6Image from "../../assets/attend.png";
+import project7Image from "../../assets/port.png";
 
 export const Projects = () => {
     const [activeCategory, setActiveCategory] = useState("web");
@@ -39,6 +40,17 @@ export const Projects = () => {
                 "openpyxl"
               ],
             link: "https://github.com/mGo08/Flippify---Flip-Item-Tracker-Analytics"
+        },
+        {
+            title: "Creative Designer Portfolio",
+            image: project7Image,
+            desc: "M-Portfolio is a personal portfolio project built to showcase projects, skills, and achievements in an interactive and modern design. It serves as a digital resume.",
+            tech: [
+                "HTML & CSS",
+                "React JS",
+                "Javascript",
+              ],
+            link: "https://github.com/mGo08/M-Portfolio"
         },
         {
             title: "noctura",
