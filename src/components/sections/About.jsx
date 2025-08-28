@@ -32,7 +32,7 @@ export const About = () => {
                             </div>
 
                             <p className="text-[#363636] tracking-wide leading-relaxed text-justify">
-                                I’m Mardelito “MJ” Go, a 20-year-old Computer Science undergraduate at Mapúa Malayan Colleges Mindanao. Passionate about crafting engaging and responsive web experiences, I specialize in creating intuitive interfaces using modern front-end technologies. 🚀
+                                I’m Mardelito “MJ” Go, a 21-year-old Computer Science undergraduate at Mapúa Malayan Colleges Mindanao. Passionate about crafting engaging and responsive web experiences, I specialize in creating intuitive interfaces using modern front-end technologies. 🚀
                             </p>
                         </div>
                     </div>

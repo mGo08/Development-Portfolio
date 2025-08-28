@@ -34,8 +34,7 @@ export const Home = () => {
                         animate={{ opacity: 1, y: 0 }}
                         transition={{ duration: 0.8, delay: 0.2, ease: "easeOut" }}
                         className="text-[#363636] text-lg mb-8 max-w-lg mx-auto">
-                        Hi, I'm Mardelito Go, an aspiring 20-year-old Graphic Designer, and Front-End
-                        Developer based in the Philippines.
+                        Hi, I'm Mardelito Go, a 21-year-old Graphic Designer, and Software/Front-end Developer based in the Philippines.
                     </motion.p>
 
                     <motion.div 
